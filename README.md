@@ -4,6 +4,11 @@ A research agent that builds its own knowledge base. Ask it about a topic; it se
 web, reads pages in a headless browser, and files what it finds as dated, linked resources
 that you can explore as a timeline or a dependency graph.
 
+<!-- showcase -->
+| Timeline | Research chat |
+|---|---|
+| ![Resources ordered by date with type, summary and tags](docs/timeline.png) | ![Chat tab where the agent searches, reads and files sources](docs/chat.png) |
+
 ## Why
 
 Most chat research is thrown away when the conversation ends. Here every source the agent
