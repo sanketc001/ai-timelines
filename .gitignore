@@ -1,0 +1,12 @@
+node_modules
+dist
+dist-server
+.env.local
+.env.*.local
+
+*.log
+.env
+.claude/
+AGENTS.md
+CLAUDE.md
+*.tsbuildinfo

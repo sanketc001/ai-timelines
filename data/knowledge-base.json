@@ -1,0 +1,2844 @@
+{
+  "resources": [
+    {
+      "id": "sciencing-evolution",
+      "title": "History Of Life On Earth",
+      "date": "2022-03-24",
+      "url": "https://www.sciencing.com/evolution",
+      "type": "article",
+      "summary": "This article provides a detailed overview of the history of life on Earth, covering the major eons like Hadean, Archean, and Proterozoic, and significant events such as the formation of oceans, the appearance of the first life forms, and the Great Oxygenation Event.",
+      "tags": [
+        "evolution",
+        "history",
+        "earth"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:35:03.117Z"
+    },
+    {
+      "id": "shortform-evolution-timeline",
+      "title": "Evolution of Life on Earth: Timeline of Early Life",
+      "date": "2020-11-01",
+      "url": "https://www.shortform.com/blog/evolution-of-life-on-earth-timeline",
+      "type": "article",
+      "summary": "This article outlines the timeline of early life on Earth, focusing on the development of primitive life forms like placozoans and sponges, and the role of microbes in the evolution of multicellular organisms.",
+      "tags": [
+        "evolution",
+        "early life",
+        "microbes"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:35:03.117Z"
+    },
+    {
+      "id": "toloka-history-llms",
+      "title": "History of LLMs: Complete Timeline & Evolution (1950-2026)",
+      "date": "2026-02-19",
+      "url": "https://toloka.ai/blog/history-of-llms",
+      "type": "article",
+      "summary": "This comprehensive guide explores the history of large language models (LLMs) from early neural networks to modern reasoning-capable AI systems. It covers key milestones, including the introduction of transformers in 2017, the rise of models like GPT-3 in 2020, and the development of reasoning models in 2024.",
+      "tags": [
+        "AI",
+        "LLM",
+        "transformers",
+        "GPT"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:35:41.282Z"
+    },
+    {
+      "id": "cvpr2023-recommended-reading",
+      "title": "CVPR 2023 Recommended Reading List",
+      "date": "2023-06-05",
+      "url": "https://rbcborealis.com/research-blogs/cvpr-2023-recommended-reading-list/",
+      "type": "article",
+      "summary": "This article provides a curated selection of noteworthy papers from CVPR 2023, organized by topics such as optimization, generalization, train/test-time adaptation, self-supervised learning, diffusion models, and more. It includes summaries and potential impacts of each paper.",
+      "tags": [
+        "CVPR",
+        "computer vision",
+        "machine learning"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:37:22.573Z"
+    },
+    {
+      "id": "cvpr2023-best-paper-awards",
+      "title": "CVPR 2023 Best Paper Award Winners Announced",
+      "date": "2023-06-21",
+      "url": "https://cvpr.thecvf.com/Conferences/2023/BestPaperAwards",
+      "type": "event",
+      "summary": "The CVPR 2023 Best Paper Awards recognized outstanding research in computer vision, AI, and related fields. Notable winners include 'Visual Programming: Compositional visual reasoning without training' and 'Planning-oriented Autonomous Driving'.",
+      "tags": [
+        "CVPR",
+        "awards",
+        "computer vision"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2023-recommended-reading",
+          "relation": "related to"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:37:22.573Z"
+    },
+    {
+      "id": "cvpr2023-accepted-papers",
+      "title": "Data-driven Feature Tracking for Event Cameras",
+      "date": "2023-06-21",
+      "url": "https://cvpr.thecvf.com/Conferences/2023/AcceptedPapers",
+      "type": "paper",
+      "summary": "This paper presents a data-driven approach to feature tracking in event cameras, enhancing tracking accuracy and robustness.",
+      "tags": [
+        "CVPR",
+        "2023",
+        "computer vision",
+        "AI",
+        "pose estimation",
+        "egocentric video",
+        "3D object dataset",
+        "perception",
+        "neural rendering",
+        "mobile architectures",
+        "neural networks",
+        "integral operations",
+        "feature tracking",
+        "event cameras"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2023-best-paper-awards",
+          "relation": "related to"
+        },
+        {
+          "targetId": "cvpr2022-learning-hard-minimal-problems",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:38:30.105Z"
+    },
+    {
+      "id": "cvpr2023-anticipated-papers",
+      "title": "Most Anticipated Papers from CVPR 2023",
+      "date": "2023-06-13",
+      "url": "https://encord.com/blog/cvpr-2023-papers-computer-vision",
+      "type": "article",
+      "summary": "This article highlights the most anticipated papers from CVPR 2023, including 'ImageBind: One Embedding Space to Bind Them All' and 'Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation'.",
+      "tags": [
+        "CVPR",
+        "2023",
+        "computer vision",
+        "AI"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2023-accepted-papers",
+          "relation": "related to"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:38:30.105Z"
+    },
+    {
+      "id": "cvpr-2020-dual-super-resolution",
+      "title": "Dual Super-Resolution Learning for Semantic Segmentation",
+      "date": "2020-06-16",
+      "url": "https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.html",
+      "type": "paper",
+      "summary": "This paper presents a dual super-resolution learning approach for semantic segmentation, enhancing the resolution of semantic maps for better segmentation accuracy.",
+      "tags": [
+        "semantic segmentation",
+        "super-resolution"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "presented at"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:11.212Z"
+    },
+    {
+      "id": "cvpr-2020-deep-unfolding-network",
+      "title": "Deep Unfolding Network for Image Super-Resolution",
+      "date": "2020-06-16",
+      "url": "https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Deep_Unfolding_Network_for_Image_Super-Resolution_CVPR_2020_paper.html",
+      "type": "paper",
+      "summary": "This work introduces a deep unfolding network for image super-resolution, leveraging a model-based approach to improve image quality.",
+      "tags": [
+        "image super-resolution",
+        "deep learning"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "presented at"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:11.212Z"
+    },
+    {
+      "id": "cvpr-2020-unsupervised-intrinsic-image-decomposition",
+      "title": "Unsupervised Learning for Intrinsic Image Decomposition From a Single Image",
+      "date": "2020-06-16",
+      "url": "https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Unsupervised_Learning_for_Intrinsic_Image_Decomposition_From_a_Single_Image_CVPR_2020_paper.html",
+      "type": "paper",
+      "summary": "This paper proposes an unsupervised learning method for intrinsic image decomposition from a single image, aiming to separate reflectance and shading components.",
+      "tags": [
+        "intrinsic image decomposition",
+        "unsupervised learning"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "presented at"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:11.212Z"
+    },
+    {
+      "id": "cvpr-2020-cocas-dataset",
+      "title": "COCAS: A Large-Scale Clothes Changing Person Dataset for Re-Identification",
+      "date": "2020-06-16",
+      "url": "https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_COCAS_A_Large-Scale_Clothes_Changing_Person_Dataset_for_Re-Identification_CVPR_2020_paper.html",
+      "type": "paper",
+      "summary": "COCAS is a new dataset designed for person re-identification, focusing on scenarios where individuals change clothes, challenging existing re-identification models.",
+      "tags": [
+        "dataset",
+        "person re-identification"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "presented at"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:11.212Z"
+    },
+    {
+      "id": "cvpr-2020-dynamic-convolutions",
+      "title": "Dynamic Convolutions: Exploiting Spatial Sparsity for Faster Inference",
+      "date": "2020-06-16",
+      "url": "https://openaccess.thecvf.com/content_CVPR_2020/html/Verelst_Dynamic_Convolutions_Exploiting_Spatial_Sparsity_for_Faster_Inference_CVPR_2020_paper.html",
+      "type": "paper",
+      "summary": "This paper introduces dynamic convolutions that exploit spatial sparsity to achieve faster inference in convolutional neural networks.",
+      "tags": [
+        "dynamic convolutions",
+        "faster inference"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "presented at"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:11.212Z"
+    },
+    {
+      "id": "cvpr-2020-advisable-learning",
+      "title": "Advisable Learning for Self-Driving Vehicles by Internalizing Observation-to-Action Rules",
+      "date": "2020-06-17",
+      "url": "https://openaccess.thecvf.com/content_CVPR_2020/html/Kim_Advisable_Learning_for_Self-Driving_Vehicles_by_Internalizing_Observation-to-Action_Rules_CVPR_2020_paper.html",
+      "type": "paper",
+      "summary": "This paper discusses a method for advisable learning in self-driving vehicles, focusing on internalizing observation-to-action rules for improved decision-making.",
+      "tags": [
+        "self-driving vehicles",
+        "advisable learning"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "presented at"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:18.775Z"
+    },
+    {
+      "id": "cvpr-2020-lightweight-multi-view-3d-pose-estimation",
+      "title": "Lightweight Multi-View 3D Pose Estimation Through Camera-Disentangled Representation",
+      "date": "2020-06-17",
+      "url": "https://openaccess.thecvf.com/content_CVPR_2020/html/Remelli_Lightweight_Multi-View_3D_Pose_Estimation_Through_Camera-Disentangled_Representation_CVPR_2020_paper.html",
+      "type": "paper",
+      "summary": "This work introduces a lightweight approach for multi-view 3D pose estimation using a camera-disentangled representation to improve efficiency and accuracy.",
+      "tags": [
+        "3D pose estimation",
+        "multi-view"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "presented at"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:18.775Z"
+    },
+    {
+      "id": "cvpr-2020-robust-design-dnn",
+      "title": "Robust Design of Deep Neural Networks Against Adversarial Attacks Based on Lyapunov Theory",
+      "date": "2020-06-17",
+      "url": "https://openaccess.thecvf.com/content_CVPR_2020/html/Rahnama_Robust_Design_of_Deep_Neural_Networks_Against_Adversarial_Attacks_Based_CVPR_2020_paper.html",
+      "type": "paper",
+      "summary": "This paper presents a robust design framework for deep neural networks to withstand adversarial attacks, utilizing Lyapunov theory for stability analysis.",
+      "tags": [
+        "adversarial attacks",
+        "deep neural networks"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "presented at"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:18.775Z"
+    },
+    {
+      "id": "cvpr-2020-cross-modal-deep-face-normals",
+      "title": "Cross-Modal Deep Face Normals With Deactivable Skip Connections",
+      "date": "2020-06-17",
+      "url": "https://openaccess.thecvf.com/content_CVPR_2020/html/Abrevaya_Cross-Modal_Deep_Face_Normals_With_Deactivable_Skip_Connections_CVPR_2020_paper.html",
+      "type": "paper",
+      "summary": "This research explores cross-modal deep face normals, incorporating deactivable skip connections to enhance facial feature extraction across different modalities.",
+      "tags": [
+        "cross-modal",
+        "face normals"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "presented at"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:18.775Z"
+    },
+    {
+      "id": "cvpr-2020-progressive-adversarial-networks",
+      "title": "Progressive Adversarial Networks for Fine-Grained Domain Adaptation",
+      "date": "2020-06-17",
+      "url": "https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Progressive_Adversarial_Networks_for_Fine-Grained_Domain_Adaptation_CVPR_2020_paper.html",
+      "type": "paper",
+      "summary": "This paper introduces progressive adversarial networks designed for fine-grained domain adaptation, improving model transferability across domains.",
+      "tags": [
+        "domain adaptation",
+        "adversarial networks"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "presented at"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:18.775Z"
+    },
+    {
+      "id": "cvpr-2020-ida-3d",
+      "title": "IDA-3D: Instance-Depth-Aware 3D Object Detection From Stereo Vision for Autonomous Driving",
+      "date": "2020-06-18",
+      "url": "https://openaccess.thecvf.com/content_CVPR_2020/html/Peng_IDA-3D_Instance-Depth-Aware_3D_Object_Detection_From_Stereo_Vision_for_Autonomous_CVPR_2020_paper.html",
+      "type": "paper",
+      "summary": "IDA-3D introduces a method for instance-depth-aware 3D object detection using stereo vision, enhancing object detection capabilities for autonomous driving.",
+      "tags": [
+        "3D object detection",
+        "autonomous driving"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "presented at"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:26.838Z"
+    },
+    {
+      "id": "cvpr-2020-frodo",
+      "title": "FroDO: From Detections to 3D Objects",
+      "date": "2020-06-18",
+      "url": "https://openaccess.thecvf.com/content_CVPR_2020/html/Runz_FroDO_From_Detections_to_3D_Objects_CVPR_2020_paper.html",
+      "type": "paper",
+      "summary": "FroDO presents a framework for converting 2D detections into 3D objects, providing a robust method for 3D object reconstruction.",
+      "tags": [
+        "3D reconstruction",
+        "object detection"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "presented at"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:26.838Z"
+    },
+    {
+      "id": "cvpr-2020-keypointnet",
+      "title": "KeypointNet: A Large-Scale 3D Keypoint Dataset Aggregated From Numerous Human Annotations",
+      "date": "2020-06-18",
+      "url": "https://openaccess.thecvf.com/content_CVPR_2020/html/You_KeypointNet_A_Large-Scale_3D_Keypoint_Dataset_Aggregated_From_Numerous_Human_CVPR_2020_paper.html",
+      "type": "paper",
+      "summary": "KeypointNet is a large-scale dataset of 3D keypoints, aggregated from human annotations, to support research in 3D object recognition and reconstruction.",
+      "tags": [
+        "3D keypoints",
+        "dataset"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "presented at"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:26.838Z"
+    },
+    {
+      "id": "cvpr-2020-bridging-gap-detection",
+      "title": "Bridging the Gap Between Anchor-Based and Anchor-Free Detection via Adaptive Training Sample Selection",
+      "date": "2020-06-18",
+      "url": "https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Bridging_the_Gap_Between_Anchor-Based_and_Anchor-Free_Detection_via_Adaptive_CVPR_2020_paper.html",
+      "type": "paper",
+      "summary": "This paper proposes a method to bridge the gap between anchor-based and anchor-free object detection by using adaptive training sample selection.",
+      "tags": [
+        "object detection",
+        "adaptive training"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "presented at"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:26.838Z"
+    },
+    {
+      "id": "cvpr-2020-structure-aware-3d-detection",
+      "title": "Structure Aware Single-Stage 3D Object Detection From Point Cloud",
+      "date": "2020-06-18",
+      "url": "https://openaccess.thecvf.com/content_CVPR_2020/html/He_Structure_Aware_Single-Stage_3D_Object_Detection_From_Point_Cloud_CVPR_2020_paper.html",
+      "type": "paper",
+      "summary": "This research introduces a structure-aware approach for single-stage 3D object detection from point clouds, enhancing detection accuracy and efficiency.",
+      "tags": [
+        "3D object detection",
+        "point cloud"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "presented at"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:26.838Z"
+    },
+    {
+      "id": "cvpr-2021-giraffe",
+      "title": "GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields",
+      "date": "2021-06-19",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Niemeyer_GIRAFFE_Representing_Scenes_As_Compositional_Generative_Neural_Feature_Fields_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "GIRAFFE introduces a novel approach to represent scenes using compositional generative neural feature fields, enabling efficient and flexible scene manipulation.",
+      "tags": [
+        "scene representation",
+        "generative models"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:43.397Z"
+    },
+    {
+      "id": "cvpr-2021-task-programming",
+      "title": "Task Programming: Learning Data Efficient Behavior Representations",
+      "date": "2021-06-19",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Task_Programming_Learning_Data_Efficient_Behavior_Representations_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "This paper presents Task Programming, a method for learning data-efficient behavior representations, improving the ability of models to generalize from limited data.",
+      "tags": [
+        "behavior representation",
+        "data efficiency"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:43.397Z"
+    },
+    {
+      "id": "cvpr-2021-exploring-siamese-representation",
+      "title": "Exploring Simple Siamese Representation Learning",
+      "date": "2021-06-19",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "This research explores simple Siamese representation learning, focusing on the effectiveness of Siamese networks for various representation learning tasks.",
+      "tags": [
+        "siamese networks",
+        "representation learning"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:43.397Z"
+    },
+    {
+      "id": "cvpr-2021-clipbert",
+      "title": "Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling",
+      "date": "2021-06-19",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Lei_Less_Is_More_ClipBERT_for_Video-and-Language_Learning_via_Sparse_Sampling_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "ClipBERT introduces a sparse sampling approach for video-and-language learning, demonstrating that less data can lead to more efficient learning outcomes.",
+      "tags": [
+        "video-and-language learning",
+        "sparse sampling"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:43.397Z"
+    },
+    {
+      "id": "cvpr-2021-binary-ttc",
+      "title": "Binary TTC: A Temporal Geofence for Autonomous Navigation",
+      "date": "2021-06-19",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Badki_Binary_TTC_A_Temporal_Geofence_for_Autonomous_Navigation_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "Binary TTC proposes a temporal geofence concept for autonomous navigation, enhancing the safety and reliability of autonomous systems.",
+      "tags": [
+        "autonomous navigation",
+        "temporal geofence"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:43.397Z"
+    },
+    {
+      "id": "cvpr-2021-greedy-hierarchical-vaes",
+      "title": "Greedy Hierarchical Variational Autoencoders for Large-Scale Video Prediction",
+      "date": "2021-06-21",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Wu_Greedy_Hierarchical_Variational_Autoencoders_for_Large-Scale_Video_Prediction_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "This paper presents a greedy hierarchical approach to variational autoencoders for large-scale video prediction, enhancing prediction accuracy and scalability.",
+      "tags": [
+        "variational autoencoders",
+        "video prediction"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:58.700Z"
+    },
+    {
+      "id": "cvpr-2021-adversarial-flickering-attacks",
+      "title": "Over-the-Air Adversarial Flickering Attacks Against Video Recognition Networks",
+      "date": "2021-06-21",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Pony_Over-the-Air_Adversarial_Flickering_Attacks_Against_Video_Recognition_Networks_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "This research explores adversarial flickering attacks on video recognition networks, highlighting vulnerabilities in video-based AI systems.",
+      "tags": [
+        "adversarial attacks",
+        "video recognition"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:58.700Z"
+    },
+    {
+      "id": "cvpr-2021-person30k",
+      "title": "Person30K: A Dual-Meta Generalization Network for Person Re-Identification",
+      "date": "2021-06-21",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Bai_Person30K_A_Dual-Meta_Generalization_Network_for_Person_Re-Identification_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "Person30K introduces a dual-meta generalization network for person re-identification, improving model robustness across diverse datasets.",
+      "tags": [
+        "person re-identification",
+        "generalization"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:58.700Z"
+    },
+    {
+      "id": "cvpr-2021-privacy-preserving-localization",
+      "title": "Privacy Preserving Localization and Mapping From Uncalibrated Cameras",
+      "date": "2021-06-21",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Geppert_Privacy_Preserving_Localization_and_Mapping_From_Uncalibrated_Cameras_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "This paper proposes a method for privacy-preserving localization and mapping using uncalibrated cameras, enhancing privacy in visual SLAM systems.",
+      "tags": [
+        "privacy",
+        "localization",
+        "mapping"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:58.700Z"
+    },
+    {
+      "id": "cvpr-2021-diffraction-artifacts-removal",
+      "title": "Removing Diffraction Image Artifacts in Under-Display Camera via Dynamic Skip Connection Network",
+      "date": "2021-06-21",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Feng_Removing_Diffraction_Image_Artifacts_in_Under-Display_Camera_via_Dynamic_Skip_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "This research introduces a dynamic skip connection network to remove diffraction image artifacts in under-display cameras, improving image quality.",
+      "tags": [
+        "image artifacts",
+        "under-display cameras"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:45:58.700Z"
+    },
+    {
+      "id": "cvpr-2021-polka-lines",
+      "title": "Polka Lines: Learning Structured Illumination and Reconstruction for Active Stereo",
+      "date": "2021-06-22",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Baek_Polka_Lines_Learning_Structured_Illumination_and_Reconstruction_for_Active_Stereo_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "Polka Lines introduces a method for learning structured illumination and reconstruction in active stereo systems, improving 3D reconstruction accuracy.",
+      "tags": [
+        "structured illumination",
+        "active stereo"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:08.048Z"
+    },
+    {
+      "id": "cvpr-2021-image-inpainting",
+      "title": "Image Inpainting With External-Internal Learning and Monochromic Bottleneck",
+      "date": "2021-06-22",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Image_Inpainting_With_External-Internal_Learning_and_Monochromic_Bottleneck_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "This paper presents a novel image inpainting approach using external-internal learning and a monochromic bottleneck, enhancing inpainting quality.",
+      "tags": [
+        "image inpainting",
+        "external-internal learning"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:08.048Z"
+    },
+    {
+      "id": "cvpr-2021-patch2pix",
+      "title": "Patch2Pix: Epipolar-Guided Pixel-Level Correspondences",
+      "date": "2021-06-22",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Patch2Pix_Epipolar-Guided_Pixel-Level_Correspondences_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "Patch2Pix introduces a method for establishing pixel-level correspondences using epipolar geometry, improving accuracy in stereo vision tasks.",
+      "tags": [
+        "pixel-level correspondences",
+        "epipolar geometry"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:08.048Z"
+    },
+    {
+      "id": "cvpr-2021-diverse-part-discovery",
+      "title": "Diverse Part Discovery: Occluded Person Re-Identification With Part-Aware Transformer",
+      "date": "2021-06-22",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Li_Diverse_Part_Discovery_Occluded_Person_Re-Identification_With_Part-Aware_Transformer_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "This research presents a part-aware transformer for occluded person re-identification, enhancing model performance in challenging scenarios.",
+      "tags": [
+        "person re-identification",
+        "transformer"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:08.048Z"
+    },
+    {
+      "id": "cvpr-2021-data-uncertainty-object-detection",
+      "title": "Data-Uncertainty Guided Multi-Phase Learning for Semi-Supervised Object Detection",
+      "date": "2021-06-22",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Data-Uncertainty_Guided_Multi-Phase_Learning_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "This paper proposes a data-uncertainty guided multi-phase learning approach for semi-supervised object detection, improving detection accuracy.",
+      "tags": [
+        "object detection",
+        "semi-supervised learning"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:08.048Z"
+    },
+    {
+      "id": "cvpr-2021-points-as-queries",
+      "title": "Points As Queries: Weakly Semi-Supervised Object Detection by Points",
+      "date": "2021-06-23",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Points_As_Queries_Weakly_Semi-Supervised_Object_Detection_by_Points_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "This paper introduces a weakly semi-supervised object detection method using points as queries, enhancing detection performance with minimal supervision.",
+      "tags": [
+        "object detection",
+        "semi-supervised learning"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:17.638Z"
+    },
+    {
+      "id": "cvpr-2021-contrastive-dehazing",
+      "title": "Contrastive Learning for Compact Single Image Dehazing",
+      "date": "2021-06-23",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Wu_Contrastive_Learning_for_Compact_Single_Image_Dehazing_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "This research applies contrastive learning to single image dehazing, achieving compact and effective dehazing results.",
+      "tags": [
+        "image dehazing",
+        "contrastive learning"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:17.638Z"
+    },
+    {
+      "id": "cvpr-2021-camouflaged-object-segmentation",
+      "title": "Camouflaged Object Segmentation With Distraction Mining",
+      "date": "2021-06-23",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Mei_Camouflaged_Object_Segmentation_With_Distraction_Mining_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "This paper presents a method for camouflaged object segmentation using distraction mining, improving segmentation accuracy in challenging scenarios.",
+      "tags": [
+        "object segmentation",
+        "camouflage"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:17.638Z"
+    },
+    {
+      "id": "cvpr-2021-moment-matching-style-transfer",
+      "title": "In the Light of Feature Distributions: Moment Matching for Neural Style Transfer",
+      "date": "2021-06-23",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Kalischek_In_the_Light_of_Feature_Distributions_Moment_Matching_for_Neural_Style_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "This research introduces moment matching for neural style transfer, focusing on feature distribution alignment for improved style transfer quality.",
+      "tags": [
+        "style transfer",
+        "moment matching"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:17.638Z"
+    },
+    {
+      "id": "cvpr-2021-holistic-3d-scene-understanding",
+      "title": "Holistic 3D Scene Understanding From a Single Image With Implicit Representation",
+      "date": "2021-06-23",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Holistic_3D_Scene_Understanding_From_a_Single_Image_With_Implicit_Representation_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "This paper proposes a holistic approach to 3D scene understanding from a single image using implicit representation, enhancing scene comprehension.",
+      "tags": [
+        "3D scene understanding",
+        "implicit representation"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:17.638Z"
+    },
+    {
+      "id": "cvpr-2021-invertible-denoising-network",
+      "title": "Invertible Denoising Network: A Light Solution for Real Noise Removal",
+      "date": "2021-06-24",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Invertible_Denoising_Network_A_Light_Solution_for_Real_Noise_Removal_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "This paper introduces an invertible denoising network designed to efficiently remove real noise from images, enhancing image quality.",
+      "tags": [
+        "denoising",
+        "invertible networks"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:26.641Z"
+    },
+    {
+      "id": "cvpr-2021-encoder-fusion-network",
+      "title": "Encoder Fusion Network With Co-Attention Embedding for Referring Image Segmentation",
+      "date": "2021-06-24",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Feng_Encoder_Fusion_Network_With_Co-Attention_Embedding_for_Referring_Image_Segmentation_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "This research presents an encoder fusion network with co-attention embedding, improving the accuracy of referring image segmentation tasks.",
+      "tags": [
+        "image segmentation",
+        "co-attention"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:26.641Z"
+    },
+    {
+      "id": "cvpr-2021-counterfactual-zero-shot",
+      "title": "Counterfactual Zero-Shot and Open-Set Visual Recognition",
+      "date": "2021-06-24",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Yue_Counterfactual_Zero-Shot_and_Open-Set_Visual_Recognition_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "This paper explores counterfactual approaches to zero-shot and open-set visual recognition, enhancing model generalization to unseen classes.",
+      "tags": [
+        "zero-shot learning",
+        "open-set recognition"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:26.641Z"
+    },
+    {
+      "id": "cvpr-2021-patch-netvlad",
+      "title": "Patch-NetVLAD: Multi-Scale Fusion of Locally-Global Descriptors for Place Recognition",
+      "date": "2021-06-24",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Hausler_Patch-NetVLAD_Multi-Scale_Fusion_of_Locally-Global_Descriptors_for_Place_Recognition_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "Patch-NetVLAD introduces a multi-scale fusion approach for place recognition, combining local and global descriptors for improved accuracy.",
+      "tags": [
+        "place recognition",
+        "multi-scale fusion"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:26.641Z"
+    },
+    {
+      "id": "cvpr-2021-binaural-audio-generation",
+      "title": "Visually Informed Binaural Audio Generation without Binaural Audios",
+      "date": "2021-06-24",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Xu_Visually_Informed_Binaural_Audio_Generation_without_Binaural_Audios_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "This research presents a method for generating binaural audio using visual information, eliminating the need for binaural audio recordings.",
+      "tags": [
+        "binaural audio",
+        "audio generation"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:26.641Z"
+    },
+    {
+      "id": "cvpr-2021-introvert",
+      "title": "Introvert: Human Trajectory Prediction via Conditional 3D Attention",
+      "date": "2021-06-25",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Shafiee_Introvert_Human_Trajectory_Prediction_via_Conditional_3D_Attention_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "Introvert introduces a method for human trajectory prediction using conditional 3D attention, improving prediction accuracy in dynamic environments.",
+      "tags": [
+        "trajectory prediction",
+        "3D attention"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:36.777Z"
+    },
+    {
+      "id": "cvpr-2021-wide-depth-range-pose-estimation",
+      "title": "Wide-Depth-Range 6D Object Pose Estimation in Space",
+      "date": "2021-06-25",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Hu_Wide-Depth-Range_6D_Object_Pose_Estimation_in_Space_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "This paper presents a method for 6D object pose estimation in space, capable of handling wide depth ranges for improved accuracy.",
+      "tags": [
+        "pose estimation",
+        "6D object pose"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:36.777Z"
+    },
+    {
+      "id": "cvpr-2021-learning-optical-flow",
+      "title": "Learning Optical Flow From a Few Matches",
+      "date": "2021-06-25",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Jiang_Learning_Optical_Flow_From_a_Few_Matches_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "This research explores learning optical flow from a limited number of matches, enhancing flow estimation with minimal data.",
+      "tags": [
+        "optical flow",
+        "learning"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:36.777Z"
+    },
+    {
+      "id": "cvpr-2021-deepi2p",
+      "title": "DeepI2P: Image-to-Point Cloud Registration via Deep Classification",
+      "date": "2021-06-25",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Li_DeepI2P_Image-to-Point_Cloud_Registration_via_Deep_Classification_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "DeepI2P introduces a method for image-to-point cloud registration using deep classification, improving registration accuracy.",
+      "tags": [
+        "point cloud",
+        "image registration"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:36.777Z"
+    },
+    {
+      "id": "cvpr-2021-controllable-image-captioning",
+      "title": "Human-Like Controllable Image Captioning With Verb-Specific Semantic Roles",
+      "date": "2021-06-25",
+      "url": "https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Human-Like_Controllable_Image_Captioning_With_Verb-Specific_Semantic_Roles_CVPR_2021_paper.html",
+      "type": "paper",
+      "summary": "This paper presents a controllable image captioning method using verb-specific semantic roles, enhancing the expressiveness of generated captions.",
+      "tags": [
+        "image captioning",
+        "semantic roles"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2020-accepted-papers",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:36.777Z"
+    },
+    {
+      "id": "cvpr-2022-learning-hard-minimal-problems",
+      "title": "Learning to Solve Hard Minimal Problems",
+      "date": "2022-06-21",
+      "url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Hruby_Learning_To_Solve_Hard_Minimal_Problems_CVPR_2022_paper.pdf",
+      "type": "paper",
+      "summary": "This paper presents a method for solving hard minimal problems in geometric optimization, improving computational efficiency and accuracy.",
+      "tags": [
+        "geometric optimization",
+        "minimal problems"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2021-giraffe",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:51.952Z"
+    },
+    {
+      "id": "cvpr-2022-dual-shutter-vibration-sensing",
+      "title": "Dual-Shutter Optical Vibration Sensing",
+      "date": "2022-06-21",
+      "url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Sheinin_Dual-Shutter_Optical_Vibration_Sensing_CVPR_2022_paper.pdf",
+      "type": "paper",
+      "summary": "This research introduces a dual-shutter approach for optical vibration sensing, enhancing the capture of high-speed vibrations with standard sensors.",
+      "tags": [
+        "vibration sensing",
+        "optical sensors"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2021-giraffe",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:51.952Z"
+    },
+    {
+      "id": "cvpr-2022-epro-pnp",
+      "title": "EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation",
+      "date": "2022-06-21",
+      "url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_EPro-PnP_Generalized_End-to-End_Probabilistic_Perspective-N-Points_for_Monocular_Object_Pose_Estimation_CVPR_2022_paper.pdf",
+      "type": "paper",
+      "summary": "EPro-PnP presents a probabilistic approach to monocular object pose estimation, improving robustness and accuracy in pose estimation tasks.",
+      "tags": [
+        "pose estimation",
+        "probabilistic models"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2021-giraffe",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:51.952Z"
+    },
+    {
+      "id": "cvpr-2022-ref-nerf",
+      "title": "Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields",
+      "date": "2022-06-21",
+      "url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Verbin_Ref-NeRF_Structured_View-Dependent_Appearance_for_Neural_Radiance_Fields_CVPR_2022_paper.pdf",
+      "type": "paper",
+      "summary": "Ref-NeRF introduces a structured approach to view-dependent appearance in neural radiance fields, enhancing rendering quality and realism.",
+      "tags": [
+        "neural radiance fields",
+        "view-dependent rendering"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2021-giraffe",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:46:51.952Z"
+    },
+    {
+      "id": "cvpr-2022-dual-cross-attention",
+      "title": "Dual Cross-Attention Learning for Fine-Grained Visual Categorization and Object Re-Identification",
+      "date": "2022-06-21",
+      "url": "https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Dual_Cross-Attention_Learning_for_Fine-Grained_Visual_Categorization_and_Object_Re-Identification_CVPR_2022_paper.html",
+      "type": "paper",
+      "summary": "This paper introduces dual cross-attention learning for fine-grained visual categorization and object re-identification, enhancing model accuracy and robustness.",
+      "tags": [
+        "visual categorization",
+        "object re-identification"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2021-giraffe",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:47:06.126Z"
+    },
+    {
+      "id": "cvpr-2022-siman",
+      "title": "SimAN: Exploring Self-Supervised Representation Learning of Scene Text via Similarity-Aware Normalization",
+      "date": "2022-06-21",
+      "url": "https://openaccess.thecvf.com/content/CVPR2022/html/Luo_SimAN_Exploring_Self-Supervised_Representation_Learning_of_Scene_Text_via_Similarity-Aware_CVPR_2022_paper.html",
+      "type": "paper",
+      "summary": "SimAN explores self-supervised representation learning for scene text using similarity-aware normalization, improving text recognition models.",
+      "tags": [
+        "self-supervised learning",
+        "scene text"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2021-giraffe",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:47:06.126Z"
+    },
+    {
+      "id": "cvpr-2022-gasp",
+      "title": "GASP, a Generalized Framework for Agglomerative Clustering of Signed Graphs and Its Application to Instance Segmentation",
+      "date": "2022-06-21",
+      "url": "https://openaccess.thecvf.com/content/CVPR2022/html/Bailoni_GASP_a_Generalized_Framework_for_Agglomerative_Clustering_of_Signed_Graphs_CVPR_2022_paper.html",
+      "type": "paper",
+      "summary": "GASP introduces a framework for agglomerative clustering of signed graphs, applied to instance segmentation tasks for improved clustering accuracy.",
+      "tags": [
+        "clustering",
+        "instance segmentation"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2021-giraffe",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:47:06.126Z"
+    },
+    {
+      "id": "cvpr-2022-estimating-example-difficulty",
+      "title": "Estimating Example Difficulty Using Variance of Gradients",
+      "date": "2022-06-21",
+      "url": "https://openaccess.thecvf.com/content/CVPR2022/html/Agarwal_Estimating_Example_Difficulty_Using_Variance_of_Gradients_CVPR_2022_paper.html",
+      "type": "paper",
+      "summary": "This paper proposes a method for estimating example difficulty using variance of gradients, aiding in curriculum learning and model training.",
+      "tags": [
+        "example difficulty",
+        "curriculum learning"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2021-giraffe",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:47:06.126Z"
+    },
+    {
+      "id": "cvpr-2022-one-loss-quantization",
+      "title": "One Loss for Quantization: Deep Hashing With Discrete Wasserstein Distributional Matching",
+      "date": "2022-06-21",
+      "url": "https://openaccess.thecvf.com/content/CVPR2022/html/Doan_One_Loss_for_Quantization_Deep_Hashing_With_Discrete_Wasserstein_Distributional_CVPR_2022_paper.html",
+      "type": "paper",
+      "summary": "This research introduces a loss function for quantization using deep hashing with discrete Wasserstein distributional matching, enhancing hashing performance.",
+      "tags": [
+        "quantization",
+        "deep hashing"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2021-giraffe",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:47:06.126Z"
+    },
+    {
+      "id": "cvpr-2023-visual-programming",
+      "title": "Visual Programming: Compositional Visual Reasoning without Training",
+      "date": "2023-06-21",
+      "url": "https://arxiv.org/abs/2211.11559",
+      "type": "paper",
+      "summary": "This paper introduces a method for compositional visual reasoning without training, leveraging visual programming techniques to enhance reasoning capabilities.",
+      "tags": [
+        "visual reasoning",
+        "programming"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2022-learning-hard-minimal-problems",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:47:30.432Z"
+    },
+    {
+      "id": "cvpr-2023-planning-oriented-autonomous-driving",
+      "title": "Planning-oriented Autonomous Driving",
+      "date": "2023-06-21",
+      "url": "https://arxiv.org/abs/2212.10156",
+      "type": "paper",
+      "summary": "This research presents a planning-oriented approach to autonomous driving, improving decision-making and safety in autonomous vehicles.",
+      "tags": [
+        "autonomous driving",
+        "planning"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2022-learning-hard-minimal-problems",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:47:30.432Z"
+    },
+    {
+      "id": "cvpr-2023-dynibar",
+      "title": "DynIBaR: Neural Dynamic Image-Based Rendering",
+      "date": "2023-06-21",
+      "url": "https://arxiv.org/abs/2211.11082",
+      "type": "paper",
+      "summary": "DynIBaR introduces a neural dynamic image-based rendering technique, enhancing the realism and flexibility of image-based rendering systems.",
+      "tags": [
+        "image-based rendering",
+        "neural rendering"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2022-learning-hard-minimal-problems",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:47:30.432Z"
+    },
+    {
+      "id": "cvpr-2023-3d-registration-maximal-cliques",
+      "title": "3D Registration with Maximal Cliques",
+      "date": "2023-06-21",
+      "url": "https://arxiv.org/abs/2305.10854",
+      "type": "paper",
+      "summary": "This paper presents a method for 3D registration using maximal cliques, improving the robustness and accuracy of registration processes.",
+      "tags": [
+        "3D registration",
+        "maximal cliques"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2022-learning-hard-minimal-problems",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:47:30.432Z"
+    },
+    {
+      "id": "cvpr-2023-dreambooth",
+      "title": "DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation",
+      "date": "2023-06-21",
+      "url": "https://arxiv.org/abs/2208.12242",
+      "type": "paper",
+      "summary": "DreamBooth explores fine-tuning text-to-image diffusion models for subject-driven generation, enhancing the quality and specificity of generated images.",
+      "tags": [
+        "text-to-image",
+        "diffusion models"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2022-learning-hard-minimal-problems",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:47:30.432Z"
+    },
+    {
+      "id": "cvpr-2024-generative-image-dynamics",
+      "title": "Generative Image Dynamics",
+      "date": "2024-06-19",
+      "url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Generative_Image_Dynamics_CVPR_2024_paper.pdf",
+      "type": "paper",
+      "summary": "This paper presents a novel approach for modeling natural oscillation dynamics from a single still picture, enabling photo-realistic animations and interactive image dynamics.",
+      "tags": [
+        "image dynamics",
+        "animation"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2023-visual-programming",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:48:08.802Z"
+    },
+    {
+      "id": "cvpr-2024-rich-human-feedback",
+      "title": "Rich Human Feedback for Text-to-Image Generation",
+      "date": "2024-06-19",
+      "url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Liang_Rich_Human_Feedback_for_Text-to-Image_Generation_CVPR_2024_paper.pdf",
+      "type": "paper",
+      "summary": "This research introduces a rich human feedback dataset for text-to-image generation, enhancing model training and output quality.",
+      "tags": [
+        "text-to-image",
+        "human feedback"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2023-visual-programming",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:48:08.802Z"
+    },
+    {
+      "id": "cvpr-2024-eventps",
+      "title": "EventPS: Real-Time Photometric Stereo Using an Event Camera",
+      "date": "2024-06-19",
+      "url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_EventPS_Real-Time_Photometric_Stereo_Using_an_Event_Camera_CVPR_2024_paper.pdf",
+      "type": "paper",
+      "summary": "EventPS introduces a real-time photometric stereo method using an event camera, improving dynamic scene capture and rendering.",
+      "tags": [
+        "photometric stereo",
+        "event camera"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2023-visual-programming",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:48:08.802Z"
+    },
+    {
+      "id": "cvpr-2024-pixelsplat",
+      "title": "pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction",
+      "date": "2024-06-19",
+      "url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Charatan_pixelSplat_3D_Gaussian_Splats_from_Image_Pairs_for_Scalable_Generalizable_CVPR_2024_paper.pdf",
+      "type": "paper",
+      "summary": "pixelSplat presents a method for 3D reconstruction using 3D Gaussian splats from image pairs, enhancing scalability and generalizability.",
+      "tags": [
+        "3D reconstruction",
+        "Gaussian splats"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2023-visual-programming",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:48:08.802Z"
+    },
+    {
+      "id": "cvpr-2024-mip-splatting",
+      "title": "Mip-Splatting: Alias-free 3D Gaussian Splatting",
+      "date": "2024-06-19",
+      "url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_Mip-Splatting_Alias-free_3D_Gaussian_Splatting_CVPR_2024_paper.pdf",
+      "type": "paper",
+      "summary": "Mip-Splatting introduces a technique for alias-free 3D Gaussian splatting, improving rendering quality across various scales.",
+      "tags": [
+        "3D splatting",
+        "alias-free rendering"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2023-visual-programming",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:48:08.802Z"
+    },
+    {
+      "id": "cvpr-2024-unmixing-diffusion",
+      "title": "Unmixing Diffusion for Self-Supervised Hyperspectral Image Denoising",
+      "date": "2024-06-19",
+      "url": "https://openaccess.thecvf.com/content/CVPR2024/html/Zeng_Unmixing_Diffusion_for_Self-Supervised_Hyperspectral_Image_Denoising_CVPR_2024_paper.html",
+      "type": "paper",
+      "summary": "This paper presents a self-supervised approach to hyperspectral image denoising using unmixing diffusion, enhancing image quality and noise reduction.",
+      "tags": [
+        "hyperspectral imaging",
+        "image denoising"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2023-visual-programming",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:48:25.774Z"
+    },
+    {
+      "id": "cvpr-2024-seeing-world-eyes",
+      "title": "Seeing the World through Your Eyes",
+      "date": "2024-06-19",
+      "url": "https://openaccess.thecvf.com/content/CVPR2024/html/Alzayer_Seeing_the_World_through_Your_Eyes_CVPR_2024_paper.html",
+      "type": "paper",
+      "summary": "This research explores a method for visualizing the world through the eyes of an observer, enhancing visual perception and understanding.",
+      "tags": [
+        "visualization",
+        "perception"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2023-visual-programming",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:48:25.774Z"
+    },
+    {
+      "id": "cvpr-2024-dpmesh",
+      "title": "DPMesh: Exploiting Diffusion Prior for Occluded Human Mesh Recovery",
+      "date": "2024-06-19",
+      "url": "https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_DPMesh_Exploiting_Diffusion_Prior_for_Occluded_Human_Mesh_Recovery_CVPR_2024_paper.html",
+      "type": "paper",
+      "summary": "DPMesh introduces a method for recovering occluded human meshes using diffusion priors, improving mesh reconstruction accuracy.",
+      "tags": [
+        "mesh recovery",
+        "diffusion priors"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2023-visual-programming",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:48:25.774Z"
+    },
+    {
+      "id": "cvpr-2024-ungeneralizable-examples",
+      "title": "Ungeneralizable Examples",
+      "date": "2024-06-19",
+      "url": "https://openaccess.thecvf.com/content/CVPR2024/html/Ye_Ungeneralizable_Examples_CVPR_2024_paper.html",
+      "type": "paper",
+      "summary": "This paper discusses the concept of ungeneralizable examples in machine learning, highlighting challenges in model generalization.",
+      "tags": [
+        "machine learning",
+        "generalization"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2023-visual-programming",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:48:25.774Z"
+    },
+    {
+      "id": "cvpr-2024-lanecpp",
+      "title": "LaneCPP: Continuous 3D Lane Detection using Physical Priors",
+      "date": "2024-06-19",
+      "url": "https://openaccess.thecvf.com/content/CVPR2024/html/Pittner_LaneCPP_Continuous_3D_Lane_Detection_using_Physical_Priors_CVPR_2024_paper.html",
+      "type": "paper",
+      "summary": "LaneCPP presents a method for continuous 3D lane detection using physical priors, enhancing lane detection accuracy and reliability.",
+      "tags": [
+        "lane detection",
+        "3D detection"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2023-visual-programming",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:48:25.774Z"
+    },
+    {
+      "id": "cvpr-2025-vggt",
+      "title": "VGGT: Visual Geometry Grounded Transformer",
+      "date": "2025-06-13",
+      "url": "https://cvpr.thecvf.com/virtual/2025/oral/35294",
+      "type": "paper",
+      "summary": "VGGT introduces a transformer model for estimating 3D scene properties, enhancing real-time applications with its simplicity and efficiency.",
+      "tags": [
+        "transformer",
+        "3D scene"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2024-generative-image-dynamics",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:48:43.076Z"
+    },
+    {
+      "id": "cvpr-2025-neural-inverse-rendering",
+      "title": "Neural Inverse Rendering from Propagating Light",
+      "date": "2025-06-14",
+      "url": "https://cvpr.thecvf.com/virtual/2025/oral/35315",
+      "type": "paper",
+      "summary": "This paper presents a system for neural inverse rendering using multi-viewpoint videos of propagating light, improving scene geometry recovery.",
+      "tags": [
+        "inverse rendering",
+        "propagating light"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2024-generative-image-dynamics",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:48:43.076Z"
+    },
+    {
+      "id": "cvpr-2025-megasam",
+      "title": "MegaSaM: Accurate, Fast and Robust Structure and Motion from Casual Dynamic Videos",
+      "date": "2025-06-14",
+      "url": "https://cvpr.thecvf.com/virtual/2025/oral/35311",
+      "type": "paper",
+      "summary": "MegaSaM introduces a method for structure and motion estimation from dynamic videos, enhancing accuracy and robustness in casual settings.",
+      "tags": [
+        "structure and motion",
+        "dynamic videos"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2024-generative-image-dynamics",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:48:43.076Z"
+    },
+    {
+      "id": "cvpr-2025-navigation-world-models",
+      "title": "Navigation World Models",
+      "date": "2025-06-14",
+      "url": "https://cvpr.thecvf.com/virtual/2025/oral/35338",
+      "type": "paper",
+      "summary": "This research presents Navigation World Models, a controllable video generation model for navigation planning using visual-motor capabilities.",
+      "tags": [
+        "navigation",
+        "video generation"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2024-generative-image-dynamics",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:48:43.076Z"
+    },
+    {
+      "id": "cvpr-2025-molmo-pixmo",
+      "title": "Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models",
+      "date": "2025-06-13",
+      "url": "https://cvpr.thecvf.com/virtual/2025/oral/35281",
+      "type": "paper",
+      "summary": "Molmo and PixMo provide open weights and data for vision-language models, advancing state-of-the-art performance in vision-language tasks.",
+      "tags": [
+        "vision-language",
+        "open data"
+      ],
+      "connections": [
+        {
+          "targetId": "cvpr2024-generative-image-dynamics",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:48:43.076Z"
+    },
+    {
+      "id": "prehistoric-era-advancements",
+      "title": "The Prehistoric Ages: How Humans Lived Before Written Records",
+      "date": "2019-09-27",
+      "url": "https://www.history.com/articles/prehistoric-ages-timeline",
+      "type": "article",
+      "summary": "The Prehistoric Era, spanning roughly 2.5 million years, is marked by the use of tools by early human ancestors and the transformation from hunting and gathering to farming. Key advancements include the development of stone and bone tools, controlled use of fire, and the creation of early art forms.",
+      "tags": [
+        "Prehistoric Era",
+        "Stone Age",
+        "Human Evolution"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:53:19.015Z"
+    },
+    {
+      "id": "ancient-civilizations-advancements",
+      "title": "Ancient Civilizations Contributions",
+      "date": "2023-09-20",
+      "url": "https://ancientcivilizationsworld.com/contributions/",
+      "type": "article",
+      "summary": "Ancient civilizations made significant contributions in various fields such as writing, mathematics, engineering, and agriculture. Notable advancements include the development of hieroglyphics, the decimal system, and the 365-day calendar by the Egyptians, as well as the invention of sailing and irrigation systems.",
+      "tags": [
+        "Ancient Civilizations",
+        "Egypt",
+        "Mathematics",
+        "Engineering"
+      ],
+      "connections": [
+        {
+          "targetId": "prehistoric-era-advancements",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:53:28.225Z"
+    },
+    {
+      "id": "middle-ages-advancements",
+      "title": "Technology in the Middle Ages",
+      "date": "2023-12-01",
+      "url": "https://www.givemehistory.com/technology-in-the-middle-ages",
+      "type": "article",
+      "summary": "The Middle Ages saw significant technological advancements, including the development of new agricultural techniques, the movable type printing press, advancements in ship design, iron smelting, and new construction technologies. These innovations contributed to the cultural and economic development of Europe.",
+      "tags": [
+        "Middle Ages",
+        "Technology",
+        "Agriculture",
+        "Printing Press"
+      ],
+      "connections": [
+        {
+          "targetId": "ancient-civilizations-advancements",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:53:38.435Z"
+    },
+    {
+      "id": "renaissance-advancements",
+      "title": "The Timeline of Renaissance Inventions",
+      "date": "2023-12-01",
+      "url": "https://brewminate.com/the-timeline-of-renaissance-inventions-c-1300-1600-ce/",
+      "type": "article",
+      "summary": "The Renaissance period (c. 1300-1600 CE) was marked by significant advancements in arts, science, and technology. Notable inventions include the mechanical clock, the printing press by Johann Gutenberg, and early models of the submarine by Leonardo da Vinci, which laid the foundation for modern technological development.",
+      "tags": [
+        "Renaissance",
+        "Inventions",
+        "Science",
+        "Technology"
+      ],
+      "connections": [
+        {
+          "targetId": "middle-ages-advancements",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:54:10.104Z"
+    },
+    {
+      "id": "industrial-revolution-advancements",
+      "title": "Industrial Revolution: Definition and Inventions",
+      "date": "2023-12-01",
+      "url": "https://www.history.com/topics/industrial-revolution",
+      "type": "article",
+      "summary": "The Industrial Revolution, beginning in the 18th century, marked a major turning point in history with advancements such as the steam engine, the Bessemer process for steel production, and the Spinning Jenny for textile manufacturing. These innovations fueled urban growth and transformed industries.",
+      "tags": [
+        "Industrial Revolution",
+        "Steam Engine",
+        "Steel Production",
+        "Textile Manufacturing"
+      ],
+      "connections": [
+        {
+          "targetId": "renaissance-advancements",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:54:17.758Z"
+    },
+    {
+      "id": "20th-century-advancements",
+      "title": "20th Century in Science",
+      "date": "2023-12-01",
+      "url": "https://en.wikipedia.org/wiki/20th_century_in_science",
+      "type": "article",
+      "summary": "The 20th century saw dramatic advancements in science and technology, including the development of theories like relativity and quantum mechanics, the invention of nuclear weapons, and the widespread use of electricity. Key technological innovations included the airplane, television, and computers, which transformed communication and transportation.",
+      "tags": [
+        "20th Century",
+        "Science",
+        "Technology",
+        "Relativity",
+        "Quantum Mechanics"
+      ],
+      "connections": [
+        {
+          "targetId": "industrial-revolution-advancements",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:54:26.208Z"
+    },
+    {
+      "id": "21st-century-advancements",
+      "title": "How Technology Has Changed the World Since 2000",
+      "date": "2023-12-01",
+      "url": "https://www.weforum.org/stories/2020/11/heres-how-technology-has-changed-and-changed-us-over-the-past-20-years",
+      "type": "article",
+      "summary": "The 21st century has seen transformative technological advancements, including the proliferation of smartphones, the rise of social media, and significant increases in internet access. These changes have revolutionized communication, media consumption, and personal technology, impacting nearly every aspect of daily life.",
+      "tags": [
+        "21st Century",
+        "Technology",
+        "Smartphones",
+        "Internet"
+      ],
+      "connections": [
+        {
+          "targetId": "20th-century-advancements",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T21:54:42.010Z"
+    },
+    {
+      "id": "cell-to-singularity-overview",
+      "title": "Cell to Singularity: Primary Simulation Overview",
+      "date": "2023-10-01",
+      "url": "https://grokipedia.com/page/Cell_to_Singularity",
+      "type": "article",
+      "summary": "The Primary Simulation in Cell to Singularity is an incremental idle game phase where players guide the evolution of life from a single-celled organism through biological, intellectual, and technological advancements toward the technological singularity. It features three primary phases: Biology, Humanity, and Singularity, each focusing on different aspects of evolution and technological development.",
+      "tags": [
+        "game",
+        "evolution",
+        "education",
+        "Cell to Singularity",
+        "Primary Simulation",
+        "Idle Game",
+        "Evolution",
+        "Technological Singularity"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:07:44.463Z"
+    },
+    {
+      "id": "cell-to-singularity-gameplay",
+      "title": "Cell to Singularity: Educational Impact and Learning Outcomes",
+      "date": "2023-10-01",
+      "url": "https://en.wikipedia.org/wiki/Cell_to_Singularity",
+      "type": "article",
+      "summary": "The Primary Simulation in Cell to Singularity offers educational themes by simulating the progression of life from its origins to a technological singularity. It uses a clicker-based format to teach biological evolution and human technological development.",
+      "tags": [
+        "gameplay",
+        "mechanics",
+        "simulation",
+        "Cell to Singularity",
+        "Educational Impact",
+        "Learning Outcomes",
+        "Primary Simulation",
+        "Evolution"
+      ],
+      "connections": [
+        {
+          "targetId": "cell-to-singularity-overview",
+          "relation": "related to"
+        },
+        {
+          "targetId": "cell-to-singularity-primary-simulation-overview",
+          "relation": "related to"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:07:51.201Z"
+    },
+    {
+      "id": "cell-to-singularity-reality-reboot",
+      "title": "Cell to Singularity: Reality Reboot Expansion",
+      "date": "2025-11-19",
+      "url": "https://egw.news/gaming/news/30642/cell-to-singularity-releases-major-reality-reboot--F1SeMpw2O",
+      "type": "article",
+      "summary": "The Reality Reboot expansion for Cell to Singularity introduces a major overhaul with new amphibian evolution paths, over 200 upgrades, and revamped core systems. Developed in collaboration with Octocube Games, it offers a deeper evolution journey and strategic gameplay enhancements.",
+      "tags": [
+        "expansion",
+        "update",
+        "game"
+      ],
+      "connections": [
+        {
+          "targetId": "cell-to-singularity-overview",
+          "relation": "related to"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:08:01.686Z"
+    },
+    {
+      "id": "cell-to-singularity-educational-elements",
+      "title": "Cell to Singularity: Challenges and Limitations of Primary Simulation",
+      "date": "2023-10-01",
+      "url": "https://celltosingularity.com/",
+      "type": "article",
+      "summary": "The Primary Simulation faces challenges such as maintaining player engagement over time and balancing educational content with entertainment. The game continuously evolves to address these limitations through updates and community feedback.",
+      "tags": [
+        "education",
+        "science",
+        "game",
+        "Cell to Singularity",
+        "Narrative",
+        "Storytelling",
+        "Primary Simulation",
+        "Science Fiction",
+        "Player Community",
+        "Development",
+        "Feedback",
+        "Educational Curricula",
+        "Evolutionary Biology",
+        "Technology",
+        "AI",
+        "Machine Learning",
+        "User-Generated Content",
+        "Modding",
+        "Community",
+        "Challenges",
+        "Limitations",
+        "Game Development"
+      ],
+      "connections": [
+        {
+          "targetId": "cell-to-singularity-overview",
+          "relation": "related to"
+        },
+        {
+          "targetId": "cell-to-singularity-primary-simulation-overview",
+          "relation": "related to"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:08:09.034Z"
+    },
+    {
+      "id": "neural-operators-efficient-function-interpolators",
+      "title": "Neural Operators as Efficient Function Interpolators",
+      "date": "2026-05-01",
+      "url": "https://arxiv.org/abs/2605.07792",
+      "type": "paper",
+      "summary": "This paper introduces neural operators designed to learn maps between functions, offering efficient function interpolation capabilities.",
+      "tags": [
+        "AI",
+        "Neural Operators",
+        "Function Interpolation"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:14:12.794Z"
+    },
+    {
+      "id": "scalar-structured-critic-actor-loop",
+      "title": "SCALAR: Structured Critic–Actor Loop for Agentic Reasoning",
+      "date": "2026-05-01",
+      "url": "https://arxiv.org/abs/2605.06772",
+      "type": "paper",
+      "summary": "SCALAR introduces a structured critic-actor loop to enhance agentic reasoning in AI-assisted theoretical physics.",
+      "tags": [
+        "AI",
+        "Agentic Reasoning",
+        "Theoretical Physics"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:14:12.794Z"
+    },
+    {
+      "id": "man-machine-mathematics",
+      "title": "Man, Machine, and Mathematics",
+      "date": "2026-04-01",
+      "url": "https://arxiv.org/abs/2604.27052",
+      "type": "paper",
+      "summary": "This paper explores the interplay between humans, machines, and mathematics, highlighting the role of AI in mathematical discovery.",
+      "tags": [
+        "AI",
+        "Mathematics",
+        "Human-Machine Interaction"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:14:12.794Z"
+    },
+    {
+      "id": "sven-singular-value-descent",
+      "title": "Sven: Singular Value Descent as a Computationally Efficient Natural Gradient Method",
+      "date": "2026-04-01",
+      "url": "https://arxiv.org/abs/2604.01279",
+      "type": "paper",
+      "summary": "Sven proposes a computationally efficient natural gradient method using singular value descent, enhancing optimization in AI models.",
+      "tags": [
+        "AI",
+        "Optimization",
+        "Gradient Methods"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:14:12.794Z"
+    },
+    {
+      "id": "thermodynamics-reinforcement-learning-curricula",
+      "title": "Thermodynamics of Reinforcement Learning Curricula",
+      "date": "2026-03-01",
+      "url": "https://arxiv.org/abs/2603.12324",
+      "type": "paper",
+      "summary": "This paper examines the thermodynamics of reinforcement learning curricula, providing insights into energy-efficient learning strategies.",
+      "tags": [
+        "AI",
+        "Reinforcement Learning",
+        "Thermodynamics"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:14:12.794Z"
+    },
+    {
+      "id": "neurips-2023-word2vec",
+      "title": "QLoRA",
+      "date": "2023-12-10",
+      "url": "https://nips.cc/",
+      "type": "paper",
+      "summary": "QLoRA, presented by Tim Dettmers at NeurIPS 2023, focuses on quantized low-rank approximation techniques for efficient AI model training.",
+      "tags": [
+        "AI",
+        "Word2Vec",
+        "NeurIPS 2023",
+        "Emergence",
+        "Optimization",
+        "Data Analysis",
+        "Model Training"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:14:24.442Z"
+    },
+    {
+      "id": "ai-2023-microsoft-openai-deal",
+      "title": "Google Bard AI Introduction",
+      "date": "2023-02-01",
+      "url": "https://autogpt.net/ai-in-2023-review-a-timeline-of-artificial-intelligence-advancements",
+      "type": "event",
+      "summary": "In February 2023, Google introduced Bard AI, a novel chatbot contributing to the open-source AI ecosystem, showcasing Google's commitment to advancing AI technology.",
+      "tags": [
+        "AI",
+        "Microsoft",
+        "OpenAI",
+        "Partnership",
+        "Healthcare",
+        "Deep Learning",
+        "Google",
+        "Chatbot"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:14:35.276Z"
+    },
+    {
+      "id": "generative-ai-2023",
+      "title": "Understanding AI Language Models",
+      "date": "2023-12-19",
+      "url": "https://www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023",
+      "type": "article",
+      "summary": "In 2023, significant insights were gained into how AI language models work, though many fundamental questions remain unanswered.",
+      "tags": [
+        "AI",
+        "Generative AI",
+        "2023",
+        "Language Models"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:14:50.718Z"
+    },
+    {
+      "id": "transformer-paper",
+      "title": "Language Models are Unsupervised Multitask Learners",
+      "date": "2019-02-01",
+      "url": "https://www.sourcescore.org/claims/4c1ee70007dc89c1/",
+      "type": "paper",
+      "summary": "GPT-2 demonstrated the power of unsupervised learning in language models, setting a new standard for text generation.",
+      "tags": [
+        "AI",
+        "Transformer",
+        "NLP",
+        "BERT",
+        "GPT-2",
+        "Unsupervised Learning"
+      ],
+      "connections": [
+        {
+          "targetId": "bert-paper",
+          "relation": "preceded"
+        },
+        {
+          "targetId": "transformer-paper",
+          "relation": "built on"
+        },
+        {
+          "targetId": "bert-paper",
+          "relation": "followed by"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:15:00.575Z"
+    },
+    {
+      "id": "ai-ethics-2023-google-whitepaper",
+      "title": "Google's AI Ethics Whitepaper",
+      "date": "2023-05-01",
+      "url": "https://www.maginative.com/article/googles-policy-agenda-for-responsible-ai-deserves-consideration-and-critique/",
+      "type": "article",
+      "summary": "Google published a whitepaper proposing a policy agenda for responsible AI progress, emphasizing ethical considerations in AI development.",
+      "tags": [
+        "AI",
+        "Ethics",
+        "Google"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:15:20.709Z"
+    },
+    {
+      "id": "ai-ethics-2023-synthid",
+      "title": "Google DeepMind's SynthID",
+      "date": "2023-06-01",
+      "url": "https://www.maginative.com/article/google-deepmind-launches-new-tool-to-label-ai-generated-images/",
+      "type": "article",
+      "summary": "Google DeepMind developed SynthID, a digital watermarking technique to label AI-generated images imperceptibly, enhancing content authenticity.",
+      "tags": [
+        "AI",
+        "Ethics",
+        "DeepMind"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:15:20.709Z"
+    },
+    {
+      "id": "ai-ethics-2023-nytimes-lawsuit",
+      "title": "New York Times Lawsuit Against Microsoft and OpenAI",
+      "date": "2023-12-01",
+      "url": "https://www.maginative.com/article/the-new-york-times-sues-openai-and-microsoft-for-copyright-infringement-over-use-of-articles-to-train-ai-models/",
+      "type": "event",
+      "summary": "The New York Times filed a lawsuit against Microsoft and OpenAI for copyright infringement, challenging the use of its content to train AI models.",
+      "tags": [
+        "AI",
+        "Ethics",
+        "Legal"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:15:20.709Z"
+    },
+    {
+      "id": "ai-ethics-2023-getty-images-lawsuit",
+      "title": "Getty Images Lawsuit Against Stability AI",
+      "date": "2023-12-01",
+      "url": "https://www.maginative.com/article/uk-court-advances-gettys-copyright-suit-against-stability-ai-a-deep-dive-into-the-legal-battle/",
+      "type": "event",
+      "summary": "Getty Images sued Stability AI for allegedly using copyrighted material without consent to train its AI model, highlighting ethical and legal challenges in AI.",
+      "tags": [
+        "AI",
+        "Ethics",
+        "Legal"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:15:20.709Z"
+    },
+    {
+      "id": "ibm-ai-hardware-forum-2023",
+      "title": "IBM Watsonx Launch",
+      "date": "2023-06-01",
+      "url": "https://research.ibm.com/blog/ai-hardware-forum-2023",
+      "type": "event",
+      "summary": "IBM launched Watsonx, a new AI and data platform designed to support enterprise use cases, highlighting the importance of specialized AI hardware.",
+      "tags": [
+        "AI",
+        "Hardware",
+        "IBM",
+        "Watsonx"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:15:32.280Z"
+    },
+    {
+      "id": "ai-healthcare-2023",
+      "title": "AI in Manufacturing 2023",
+      "date": "2023-01-01",
+      "url": "https://softwareoasis.com/ai-industry-adoption-trends-statistics-impact/",
+      "type": "article",
+      "summary": "AI in manufacturing enhances efficiency and innovation, with applications in predictive maintenance, quality control, and supply chain optimization.",
+      "tags": [
+        "AI",
+        "Healthcare",
+        "2023",
+        "Finance",
+        "Manufacturing"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:15:44.778Z"
+    },
+    {
+      "id": "deepmind-2023-advances",
+      "title": "DeepMind's 2023 AI Advances",
+      "date": "2023-12-22",
+      "url": "https://deepmind.google/blog/2023-a-year-of-groundbreaking-advances-in-ai-and-computing/",
+      "type": "article",
+      "summary": "DeepMind highlighted significant AI advancements in 2023, including the launch of Bard and PaLM 2, which enhanced multilingual capabilities and advanced reasoning tasks.",
+      "tags": [
+        "AI",
+        "DeepMind",
+        "2023"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:15:57.323Z"
+    },
+    {
+      "id": "palm-2-launch",
+      "title": "PaLM 2 Launch",
+      "date": "2023-05-01",
+      "url": "https://ai.google/discover/palm2/",
+      "type": "event",
+      "summary": "Google launched PaLM 2, a large language model excelling at advanced reasoning tasks, integrated into various Google products for enhanced capabilities.",
+      "tags": [
+        "AI",
+        "PaLM 2",
+        "Google"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:15:57.323Z"
+    },
+    {
+      "id": "bard-update-2023",
+      "title": "Bard Update 2023",
+      "date": "2023-02-01",
+      "url": "https://bard.google.com/",
+      "type": "event",
+      "summary": "Google's Bard received an update in 2023, enabling multilingual capabilities and integration with various Google features.",
+      "tags": [
+        "AI",
+        "Bard",
+        "Google"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:15:57.323Z"
+    },
+    {
+      "id": "ai-impact-society-2023",
+      "title": "Impact of AI on Society: Benefits, Risks & Ethics",
+      "date": "2023-10-01",
+      "url": "https://ai-ei.org/impact-of-artificial-intelligence-applications-on-society",
+      "type": "article",
+      "summary": "This article explores the social impacts of AI applications, highlighting both opportunities and challenges in sectors like healthcare, education, and business.",
+      "tags": [
+        "AI",
+        "Society",
+        "Ethics"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:16:15.004Z"
+    },
+    {
+      "id": "cell-to-singularity-primary-simulation-mechanics",
+      "title": "Cell to Singularity: Narrative Development and Storytelling Techniques",
+      "date": "2023-10-01",
+      "url": "https://grokipedia.com/page/Cell_to_Singularity",
+      "type": "article",
+      "summary": "The Primary Simulation uses a tech tree to guide narrative development, integrating scientific milestones and speculative fiction. Storytelling techniques include immersive 3D habitats and informative pop-ups to engage players.",
+      "tags": [
+        "Cell to Singularity",
+        "Primary Simulation",
+        "Game Mechanics",
+        "Evolutionary Tree",
+        "Reality Reboot",
+        "Mesozoic Valley",
+        "Beyond",
+        "Game Connections",
+        "Idle Clicker",
+        "Entropy",
+        "Educational Elements",
+        "Evolutionary Biology",
+        "Science Education",
+        "Player Choices",
+        "Progression",
+        "Historical Accuracy",
+        "Scientific Accuracy",
+        "Education",
+        "Resource Management",
+        "Player Engagement",
+        "Retention Strategies",
+        "Educational Games",
+        "Comparison",
+        "Understanding Evolution",
+        "Technical Challenges",
+        "Development",
+        "Game Development",
+        "Feedback",
+        "Educators",
+        "Scientists",
+        "User Interface",
+        "Evolution",
+        "Game Design",
+        "Narrative Development",
+        "Storytelling"
+      ],
+      "connections": [
+        {
+          "targetId": "cell-to-singularity-primary-simulation-overview",
+          "relation": "related to"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:17:00.760Z"
+    },
+    {
+      "id": "cell-to-singularity-primary-simulation-updates",
+      "title": "Cell to Singularity: UI/UX Improvements in Primary Simulation",
+      "date": "2024-11-14",
+      "url": "https://gameupdatenotifier.com/g/cell-to-singularity-evolution-never-ends/v/primary-simulation-update-save-manager-ux-improvements-more",
+      "type": "article",
+      "summary": "The Primary Simulation has received UI/UX improvements, including a Save Manager for cross-platform saves, revamped Daily Mutation UI, and in-depth generator production information. These updates enhance the user experience and gameplay efficiency.",
+      "tags": [
+        "Cell to Singularity",
+        "Primary Simulation",
+        "Updates",
+        "Save Manager",
+        "UI/UX Improvements",
+        "UI/UX",
+        "User Experience",
+        "Game Update"
+      ],
+      "connections": [
+        {
+          "targetId": "cell-to-singularity-primary-simulation-overview",
+          "relation": "related to"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:18:41.001Z"
+    },
+    {
+      "id": "cell-to-singularity-primary-simulation-player-tips",
+      "title": "Cell to Singularity: Player Strategies and Tips for Primary Simulation",
+      "date": "2022-02-09",
+      "url": "https://www.joyfreak.com/threads/cell-to-singularity-evolution-never-ends-5-tips-to-improve-efficiency.11979",
+      "type": "article",
+      "summary": "Players can improve efficiency in the Primary Simulation by deciding their playstyle, focusing on advanced life forms, and managing resources like Darwinium. Strategies include balancing active and passive play to optimize progression.",
+      "tags": [
+        "Cell to Singularity",
+        "Primary Simulation",
+        "Player Tips",
+        "Efficiency",
+        "Strategy",
+        "Player Strategies",
+        "Tips"
+      ],
+      "connections": [
+        {
+          "targetId": "cell-to-singularity-primary-simulation-overview",
+          "relation": "related to"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:18:57.715Z"
+    },
+    {
+      "id": "cell-to-singularity-reality-reboot-impact",
+      "title": "Cell to Singularity: Impact of Reality Reboot on Primary Simulation",
+      "date": "2025-03-20",
+      "url": "https://www.gamewatcher.com/news/cell-to-singularity-evolution-never-ends-reality-reboot-expansion-overhauls-primary-simulation-reality-engine",
+      "type": "article",
+      "summary": "The Reality Reboot expansion overhauls the Primary Simulation and Reality Engine, introducing new upgrades, improving tuning, and streamlining progression. It splits Metabits into Entrobits and Ideabits, expanding strategic options.",
+      "tags": [
+        "Cell to Singularity",
+        "Reality Reboot",
+        "Primary Simulation",
+        "Game Update",
+        "Strategic Options"
+      ],
+      "connections": [
+        {
+          "targetId": "cell-to-singularity-primary-simulation-overview",
+          "relation": "related to"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:19:33.584Z"
+    },
+    {
+      "id": "cell-to-singularity-player-feedback",
+      "title": "Cell to Singularity: Player Feedback and Community Insights",
+      "date": "2023-10-01",
+      "url": "https://play.google.com/store/apps/details?hl=en_US&id=com.computerlunch.evolution",
+      "type": "article",
+      "summary": "Cell to Singularity receives positive feedback from players for its engaging gameplay and educational content. Players appreciate the intuitive controls, informative clicker mechanics, and the blend of science education with entertainment.",
+      "tags": [
+        "Cell to Singularity",
+        "Player Feedback",
+        "Community Insights",
+        "Educational Content",
+        "Gameplay"
+      ],
+      "connections": [
+        {
+          "targetId": "cell-to-singularity-primary-simulation-overview",
+          "relation": "related to"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:19:59.554Z"
+    },
+    {
+      "id": "cell-to-singularity-future-updates-roadmap",
+      "title": "Cell to Singularity: Future Updates and Roadmap",
+      "date": "2025-08-01",
+      "url": "https://www.updatemonitor.com/app/977400/news/1808601382456091",
+      "type": "article",
+      "summary": "The Reality Reboot Summer Update introduces new content to the Primary Simulation Tree, changes tuning progression, and adds a global Research Level. Future updates will continue to enhance gameplay with strategic depth and improved tutorials.",
+      "tags": [
+        "Cell to Singularity",
+        "Future Updates",
+        "Roadmap",
+        "Reality Reboot",
+        "Primary Simulation"
+      ],
+      "connections": [
+        {
+          "targetId": "cell-to-singularity-primary-simulation-overview",
+          "relation": "related to"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:20:26.635Z"
+    },
+    {
+      "id": "cell-to-singularity-prestige-system",
+      "title": "Cell to Singularity: Glitch Nodes in Primary Simulation",
+      "date": "2025-11-19",
+      "url": "https://www.incrementaldb.com/update/4249ef68-065a-44d3-b623-d904e7a7898a",
+      "type": "article",
+      "summary": "Glitch Nodes in the Primary Simulation are tied to the player's Research Level and unlock new gameplay elements. They offer opportunities to radically change the game's economy by upgrading them, adding depth and complexity to the simulation.",
+      "tags": [
+        "Cell to Singularity",
+        "Prestige System",
+        "Primary Simulation",
+        "Game Mechanics",
+        "Strategic Depth",
+        "Glitch Nodes",
+        "Research Level"
+      ],
+      "connections": [
+        {
+          "targetId": "cell-to-singularity-primary-simulation-overview",
+          "relation": "related to"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:20:39.746Z"
+    },
+    {
+      "id": "cell-to-singularity-primary-simulation-integration",
+      "title": "Cell to Singularity: Cultural and Historical References in Primary Simulation",
+      "date": "2023-10-01",
+      "url": "https://shapes.inc/fandom/cell-to-singularity/evolutionary-tree",
+      "type": "article",
+      "summary": "The Primary Simulation includes cultural and historical references, such as the Stone Age, Discovery of Fire, and the Industrial Revolution. These elements are integrated into the tech tree, enhancing the educational experience.",
+      "tags": [
+        "Cell to Singularity",
+        "Primary Simulation",
+        "Integration",
+        "Expansions",
+        "Mesozoic Valley",
+        "Beyond",
+        "Comparison",
+        "Evolutionary Theories",
+        "Scientific Concepts",
+        "Education",
+        "Game Mechanics",
+        "Progression",
+        "Tech Tree",
+        "Cultural References",
+        "Historical References"
+      ],
+      "connections": [
+        {
+          "targetId": "cell-to-singularity-primary-simulation-overview",
+          "relation": "related to"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:20:48.979Z"
+    },
+    {
+      "id": "cell-to-singularity-advanced-strategies",
+      "title": "Cell to Singularity: Advanced Strategies for Primary Simulation",
+      "date": "2023-05-19",
+      "url": "https://www.nowf.com/guides/cell-to-singularity-evolution-new-strategy-guide",
+      "type": "article",
+      "summary": "Advanced strategies for the Primary Simulation include focusing on research, upgrading generators, balancing upgrades, paying attention to achievements, and choosing civilizations carefully. These strategies help optimize gameplay and progression.",
+      "tags": [
+        "Cell to Singularity",
+        "Advanced Strategies",
+        "Primary Simulation",
+        "Gameplay Optimization",
+        "Progression"
+      ],
+      "connections": [
+        {
+          "targetId": "cell-to-singularity-primary-simulation-overview",
+          "relation": "related to"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:21:02.860Z"
+    },
+    {
+      "id": "cell-to-singularity-community-events",
+      "title": "Cell to Singularity: Monetization Impact on Gameplay",
+      "date": "2023-10-01",
+      "url": "https://celltosingularity.com/",
+      "type": "article",
+      "summary": "Monetization strategies in the Primary Simulation, such as in-game purchases and premium currency, impact gameplay by offering players options to accelerate progression. These strategies are balanced to maintain a fair and engaging experience.",
+      "tags": [
+        "Cell to Singularity",
+        "Community Events",
+        "Challenges",
+        "Event Exploration Hubs",
+        "Rewards",
+        "Collaborations",
+        "Primary Simulation",
+        "Community Engagement",
+        "Monetization",
+        "Gameplay Impact",
+        "In-Game Purchases"
+      ],
+      "connections": [
+        {
+          "targetId": "cell-to-singularity-primary-simulation-overview",
+          "relation": "related to"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:21:22.854Z"
+    },
+    {
+      "id": "cell-to-singularity-monetization",
+      "title": "Cell to Singularity: Monetization and In-Game Purchases",
+      "date": "2023-10-01",
+      "url": "https://store.celltosingularity.com/",
+      "type": "article",
+      "summary": "The Primary Simulation in Cell to Singularity offers in-game purchases through a web shop, allowing players to buy items using credit/debit cards and e-wallets. Purchases include items like the Infinity Pass, enhancing gameplay experience.",
+      "tags": [
+        "Cell to Singularity",
+        "Monetization",
+        "In-Game Purchases",
+        "Primary Simulation",
+        "Web Shop"
+      ],
+      "connections": [
+        {
+          "targetId": "cell-to-singularity-primary-simulation-overview",
+          "relation": "related to"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:23:19.612Z"
+    },
+    {
+      "id": "cell-to-singularity-technical-aspects",
+      "title": "Cell to Singularity: Technical Aspects and Performance",
+      "date": "2023-10-01",
+      "url": "https://store.steampowered.com/app/977400/Cell_to_Singularity__Evolution_Never_Ends/",
+      "type": "article",
+      "summary": "Cell to Singularity is available on multiple platforms, including Steam, iOS, and Android. It features in-game purchases, Steam achievements, and supports multiple languages, offering a seamless and optimized gameplay experience.",
+      "tags": [
+        "Cell to Singularity",
+        "Technical Aspects",
+        "Performance",
+        "Platform Compatibility",
+        "Optimization"
+      ],
+      "connections": [
+        {
+          "targetId": "cell-to-singularity-primary-simulation-overview",
+          "relation": "related to"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:23:31.387Z"
+    },
+    {
+      "id": "cell-to-singularity-community-feedback",
+      "title": "Cell to Singularity: Community Feedback and Reviews",
+      "date": "2026-06-11",
+      "url": "https://steambase.io/games/cell-to-singularity-evolution-never-ends/reviews",
+      "type": "article",
+      "summary": "Cell to Singularity has received a Player Score of 90/100 based on 27,112 reviews, with a rating of Very Positive. The community appreciates the game's engaging gameplay and educational content.",
+      "tags": [
+        "Cell to Singularity",
+        "Community Feedback",
+        "Reviews",
+        "Primary Simulation",
+        "Player Score"
+      ],
+      "connections": [
+        {
+          "targetId": "cell-to-singularity-primary-simulation-overview",
+          "relation": "related to"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:23:50.122Z"
+    },
+    {
+      "id": "cell-to-singularity-future-updates",
+      "title": "Cell to Singularity: Future Updates and Prospects for Primary Simulation",
+      "date": "2025-03-18",
+      "url": "https://www.incrementaldb.com/update/05b7695c-b2be-479b-af11-82b4bd79e96b",
+      "type": "article",
+      "summary": "Future updates for the Primary Simulation include the Reality Reboot expansion, which will introduce additional upgrades, improve tuning, and streamline progression. Collaborations with game developers aim to enhance the gameplay experience.",
+      "tags": [
+        "Cell to Singularity",
+        "Future Updates",
+        "Primary Simulation",
+        "Reality Reboot",
+        "Game Development"
+      ],
+      "connections": [
+        {
+          "targetId": "cell-to-singularity-primary-simulation-overview",
+          "relation": "related to"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:29:22.372Z"
+    },
+    {
+      "id": "really-awesome-gan",
+      "title": "Really Awesome GAN",
+      "date": "2023-10-01",
+      "url": "https://github.com/nightrome/really-awesome-gan",
+      "type": "article",
+      "summary": "A comprehensive list of papers and resources on Generative Adversarial Networks (GANs), curated by Holger Caesar. This repository includes recommendations, workshops, tutorials, and code related to GANs.",
+      "tags": [
+        "GANs",
+        "Generative Models",
+        "Machine Learning"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:33:16.678Z"
+    },
+    {
+      "id": "variational-autoencoders-geeksforgeeks",
+      "title": "Variational AutoEncoders - GeeksforGeeks",
+      "date": "2025-12-16",
+      "url": "https://www.geeksforgeeks.org/machine-learning/variational-autoencoders",
+      "type": "article",
+      "summary": "Variational Autoencoders (VAEs) are generative models that learn a smooth, probabilistic latent space, enabling them to compress, reconstruct, and generate new realistic samples. They are widely used in image synthesis, anomaly detection, and representation learning.",
+      "tags": [
+        "VAEs",
+        "Generative Models",
+        "Machine Learning"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:33:24.440Z"
+    },
+    {
+      "id": "attention-is-all-you-need",
+      "title": "Attention Is All You Need",
+      "date": "2017-06-12",
+      "url": "https://arxiv.org/abs/1706.03762",
+      "type": "paper",
+      "summary": "This seminal paper introduces the Transformer model, which relies entirely on attention mechanisms, dispensing with recurrence and convolutions. It demonstrates superior performance in machine translation tasks and sets new benchmarks for BLEU scores.",
+      "tags": [
+        "Transformers",
+        "Attention Mechanism",
+        "Machine Learning"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:33:30.120Z"
+    },
+    {
+      "id": "diffusion-models-survey",
+      "title": "Diffusion Models: A Comprehensive Survey of Methods and Applications",
+      "date": "2022-09-02",
+      "url": "https://arxiv.org/abs/2209.00796",
+      "type": "paper",
+      "summary": "This survey provides an overview of diffusion models, categorizing research into efficient sampling, improved likelihood estimation, and handling data with special structures. It discusses applications in image synthesis, video generation, and more.",
+      "tags": [
+        "Diffusion Models",
+        "Generative Models",
+        "Machine Learning"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:33:36.374Z"
+    },
+    {
+      "id": "cell-to-singularity-cross-platform-play",
+      "title": "Cell to Singularity: Cross-Platform Play and Compatibility",
+      "date": "2023-10-01",
+      "url": "https://celltosingularity.com/play/",
+      "type": "article",
+      "summary": "The Primary Simulation supports cross-platform play, allowing players to access the game on web browsers, iOS, Android, and Steam. This feature enhances accessibility and ensures a seamless experience across devices.",
+      "tags": [
+        "Cell to Singularity",
+        "Cross-Platform Play",
+        "Compatibility",
+        "Primary Simulation",
+        "Game Accessibility"
+      ],
+      "connections": [
+        {
+          "targetId": "cell-to-singularity-primary-simulation-overview",
+          "relation": "related to"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:33:42.484Z"
+    },
+    {
+      "id": "autoregressive-models-survey",
+      "title": "Autoregressive Models in Deep Learning — A Brief Survey",
+      "date": "2019-03-09",
+      "url": "https://www.georgeho.org/deep-autoregressive-models",
+      "type": "article",
+      "summary": "This survey provides an overview of deep autoregressive models, highlighting their role as sequence models that are feed-forward and generative. It compares them to RNNs and discusses their advantages in terms of training stability and inference speed.",
+      "tags": [
+        "Autoregressive Models",
+        "Generative Models",
+        "Machine Learning"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:33:44.929Z"
+    },
+    {
+      "id": "generative-ai-wikipedia",
+      "title": "Generative AI - Wikipedia",
+      "date": "2023-10-01",
+      "url": "https://en.wikipedia.org/wiki/Generative_AI",
+      "type": "article",
+      "summary": "Generative AI uses models to generate text, images, videos, audio, and other data forms. Applications include chatbots, text-to-image models, and text-to-video models, used across industries like software, healthcare, finance, and entertainment.",
+      "tags": [
+        "Generative AI",
+        "Applications",
+        "Machine Learning"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:33:57.047Z"
+    },
+    {
+      "id": "challenges-limitations-generative-ai",
+      "title": "Challenges and Limitations of Generative AI Models",
+      "date": "2023-10-01",
+      "url": "https://nlink.tech/challenges-and-limitations-of-generative-ai-models",
+      "type": "article",
+      "summary": "This article discusses the challenges faced by generative AI models, including data availability, mode collapse, interpretability, and ethical concerns. It highlights the need for diverse datasets and improved model transparency.",
+      "tags": [
+        "Generative AI",
+        "Challenges",
+        "Limitations"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:34:08.619Z"
+    },
+    {
+      "id": "recent-advances-generative-ai-2023",
+      "title": "Recent Advances in Generative AI and Large Language Models: Current Status, Challenges, and Perspectives",
+      "date": "2024-07-20",
+      "url": "https://arxiv.org/abs/2407.14962",
+      "type": "paper",
+      "summary": "This paper explores the recent advancements in Generative AI and Large Language Models, highlighting their technical foundations, applications, and emerging challenges. It provides insights into the integration of these technologies across various domains.",
+      "tags": [
+        "Generative AI",
+        "Advancements",
+        "Large Language Models"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:34:14.950Z"
+    },
+    {
+      "id": "cell-to-singularity-player-demographics",
+      "title": "Cell to Singularity: Player Demographics and Engagement Statistics",
+      "date": "2023-10-01",
+      "url": "https://playtracker.net/insight/game/33692",
+      "type": "article",
+      "summary": "Cell to Singularity has an estimated 1.8 million players with around 106,000 active players. The game averages 90.1 hours of total playtime, indicating strong engagement among its player base.",
+      "tags": [
+        "Cell to Singularity",
+        "Player Demographics",
+        "Engagement Statistics",
+        "Primary Simulation",
+        "Game Analytics"
+      ],
+      "connections": [
+        {
+          "targetId": "cell-to-singularity-primary-simulation-overview",
+          "relation": "related to"
+        }
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:34:24.932Z"
+    },
+    {
+      "id": "gans-vs-diffusion-models-comparison",
+      "title": "GANs vs Diffusion Models: Trade-offs, Quality & Speed in Generative AI",
+      "date": "2023-02-04",
+      "url": "https://vahu.org/gans-vs-diffusion-models-trade-offs-quality-speed-in-generative-ai",
+      "type": "article",
+      "summary": "This article compares GANs and Diffusion Models, highlighting trade-offs in quality, speed, and computational costs. It discusses the strengths and weaknesses of each model type in generating high-quality images.",
+      "tags": [
+        "GANs",
+        "Diffusion Models",
+        "Comparative Study"
+      ],
+      "connections": [],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:34:28.188Z"
+    },
+    {
+      "id": "philosophical-transactions-royal-society-1665",
+      "title": "Philosophical Transactions of the Royal Society",
+      "date": "1665-03-06",
+      "url": "https://royalsocietypublishing.org/journal/rstl",
+      "type": "article",
+      "summary": "The Philosophical Transactions of the Royal Society, established in 1665, is the world's first scientific journal. It marked the beginning of organized scientific publishing and peer review, significantly contributing to the dissemination of scientific knowledge.",
+      "tags": [
+        "scientific publishing",
+        "history",
+        "journal"
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:47:32.262Z",
+      "connections": []
+    },
+    {
+      "id": "scientific-journals-18th-century",
+      "title": "Development of Scientific Journals in the 21st Century",
+      "date": "2001-01-01",
+      "url": "https://en.wikipedia.org/wiki/History_of_scientific_journals",
+      "type": "article",
+      "summary": "The 21st century has seen rapid advancements in science and technology, driven by the digital age. This period is characterized by the proliferation of online journals and open-access publishing, significantly enhancing the accessibility and dissemination of scientific knowledge.",
+      "tags": [
+        "scientific publishing",
+        "18th century",
+        "history",
+        "19th century",
+        "early 20th century",
+        "late 20th century",
+        "21st century"
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:47:38.197Z",
+      "connections": []
+    },
+    {
+      "id": "philosophical-transactions-1665",
+      "title": "Philosophical Transactions of the Royal Society",
+      "date": "1665-03-06",
+      "url": "https://en.wikipedia.org/wiki/Philosophical_Transactions_of_the_Royal_Society",
+      "type": "paper",
+      "summary": "The Philosophical Transactions of the Royal Society, established in 1665, is the world's longest-running scientific journal. It was initially a private venture by the Royal Society's secretary, Henry Oldenburg, and became an official society publication in 1752. The journal covers multidisciplinary science and has been a significant platform for scientific communication since its inception.",
+      "tags": [
+        "scientific journal",
+        "Royal Society",
+        "multidisciplinary science"
+      ],
+      "source": "chat",
+      "addedAt": "2026-06-11T22:49:10.620Z",
+      "connections": []
+    }
+  ]
+}
